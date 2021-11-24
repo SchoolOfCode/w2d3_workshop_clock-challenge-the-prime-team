@@ -26,6 +26,22 @@ img {
   height: 120px;
   width: 5px;
   border-top: 120px solid black;
+
+}
+
+.hand--seconds {
+  width: 5px;
+  border-top: 120px solid red;
+}
+
+.hand--minutes {
+  width: 5px;
+  border-top: 120px solid yellow;
+}
+
+.hand--hours {
+  width: 5px;
+  border-top: 120px solid blue;
 }
 .hide {
   display: none;
